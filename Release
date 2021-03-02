@@ -1,8 +1,20 @@
-Origin: 7aMa
-Label: 7aMa
+Origin: 7aMaKuRd
+Label: 7aMaKuRd
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: com.7aMa.KuRdrepo
 Architectures: iphoneos-arm
 Components: main
-Description: Source 7aMa For Kurd
+Description: best Source For KuRd
+MD5Sum:
+ 9ab6569d5db71b3e6707331d5863fc93 32439 Packages
+ 9a0d4dafa971750423654b4e087f0d91 8702 Packages.gz
+ 7210816644fc2b617d3e04bcdbc3fed2 8331 Packages.bz2
+SHA1:
+ 15cb63957ee8be67a0087c371dc49317872cd454 32439 Packages
+ 98ef31e693b2ea3e20689674212dcb1dd57d03dc 8702 Packages.gz
+ b48f81440a9f4cd3d6a0b2f12fc16855538f6e74 8331 Packages.bz2
+SHA256:
+ c2aaa133d5da5ff406cbf5deb7c33f76bf6ec89ed6a6cb30e834834a532a197d 32439 Packages
+ 87ef6afde2f3ba1531e8d5f384a569901634bea2e0a2f5291421ab5d33ebf976 8702 Packages.gz
+ dd4dcc9a78351b5d31464d533d28aee6defc3e206b8aa658344c5136e9a65d29 8331 Packages.bz2
